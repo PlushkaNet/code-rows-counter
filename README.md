@@ -8,7 +8,7 @@ $ curl -fsSLO https://raw.githubusercontent.com/bottlepy/bottle/master/bottle.py
 $ python crc.py -f bottle.py
 > total lines: 4583
 ```
-**Counting rows in [flask](https://github.com/pallets/flask)
+**Counting rows in [flask](https://github.com/pallets/flask)**
 ```
 $ git clone https://github.com/pallets/flask.git
 $ python crc.py -d flask/src/flask
