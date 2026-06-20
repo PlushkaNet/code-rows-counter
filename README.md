@@ -12,5 +12,6 @@ $ python crc.py -f bottle.py
 ```
 $ git clone https://github.com/pallets/flask.git
 $ python crc.py -d flask/src/flask
+> total lines: 6293
 ```
 > Note: this command will process entries only inside `flask/src/flask` folder, but not in its subdirectories
